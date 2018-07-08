@@ -1,0 +1,101 @@
+body{
+	 
+	 background-color:gray;
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+}
+#pageTitle{
+	 font-family: Impact, Times New Roman, Arial;
+	 
+	 text-align: Center;
+         color: black;
+       transition: 6000ms:
+ 
+		text-shadow: 6px 12px 24px white;
+ 
+ }
+ 
+ 
+ 
+ #pageTitle:hover{
+	    color: white;
+		text-shadow: 6px 12px 24px black;
+	 
+	 font-size: 60px;
+	 
+	   transition: 4000ms;
+	 
+ }
+ 
+ 
+ 
+ #btnStart{
+	 
+	 width: 60px;
+	 height: 30px;
+	 background-color:black;
+	 color: white;
+	 
+	 
+	 
+
+	 
+ }
+
+ 
+ 
+ 
+ 
+ 
+ #btnStart:hover{
+	   background-color: white;
+	   color: black;
+	   transition: 1000ms;
+ }
+ 
+ #btnStart:active{
+	 background: black;
+	 
+	 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #btnflood{
+	 
+	 width: 60px;
+	 height: 30px;
+	 background-color:white;
+	 color: black;
+	 
+	 
+	 
+
+	 
+ }
+
+ 
+ 
+ 
+ 
+ 
+ #btnflood:hover{
+	   background-color: black;
+	   color: white;
+	   transition: 1000ms;
+ }
+ 
+ #btnflood:active{
+	 background: white;
